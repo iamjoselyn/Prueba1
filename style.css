@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("./ft-fuentes/Roboto-Regular.ttf");
+}
+@font-face {
+    font-family: Roboto-black;
+    src: url("./ft-fuentes/Roboto-Black.ttf");
+}
+
+/* body */
+.body-container {
+    width: 640px;
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto;
+}
+footer {
+    color: grey;
+    font-size: small;
+    padding: 10px;
+}
+.under-image {
+    padding: 10px;
+}
+
+.comments {
+    padding: 20px;
+}
+.link {
+    color: grey;
+}
+ç
+.texto-header {
+    display:flex;
+    align-items:right;
+}
+.icons-container {
+    padding: 10px;
+    size: 20px;
+}
+body header {
+    padding: 20px;
+} 
+.user {
+    font-family: Roboto-black;
+}
+.image {
+    width: 640px;
+    height: 640px;
+} 
+#logo {
+    font-family:'Times New Roman';
+    font-size: 2em;
+    
+} 
